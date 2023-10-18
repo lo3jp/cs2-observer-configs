@@ -1,0 +1,183 @@
+dust2
+
+mid 
+spec_goto -547.5 1204.2 390.6 39.2 -1.0
+
+cat
+spec_goto 496.4 1440.4 19.1 -16.3 142.2
+
+short
+spec_goto 262.1 2522.7 386.4 37.6 -36.3
+
+Asite
+spec_goto 1460.9 3063.6 413.8 34.2 -128.7
+
+Along
+spec_goto 1657.2 1187.0 706.8 60.7 179.3
+
+Bmain
+spec_goto -2096.4 1354.1 412.0 53.1 -36.5
+
+Bsite
+spec_goto -1344.8 2737.7 363.0 33.1 -149.4
+
+mirage
+
+Amain
+spec_goto 678.6 -1148.2 309.6 57.9 -42.9
+
+Asite
+spec_goto -299.7 -1583.6 520.4 64.6 -91.6
+
+mid
+spec_goto -1015.9 -637.9 126.5 42.4 27.6
+
+Blong
+spec_goto -999.8 780.7 42.0 20.7 -143.9
+
+Bsite
+spec_goto -2367.1 628.3 520.9 62.1 -45.4
+
+Bshort
+spec_goto -785.3 266.3 338.0 55.6 -131.8
+
+inferno
+
+mid
+spec_goto 925.5 684.2 359.5 31.0 -128.9
+
+2nd mid
+spec_goto 894.0 -87.7 397.2 34.2 -143.2
+
+Asite
+spec_goto 2543.7 -379.2 560.9 33.5 127.8
+
+short
+spec_goto 1396.5 -113.2 221.0 14.2 54.8
+
+long
+spec_goto 2420.2 1238.1 370.6 31.8 -137.7
+
+banana
+spec_goto 400.8 2147.7 407.3 37.0 -85.6
+
+Bmain
+spec_goto 1018.0 1897.9 396.3 28.5 142.6
+
+Bsite
+spec_goto 499.0 2442.0 373.5 29.7 124.4
+
+const/B
+spec_goto 465.4 3586.7 363.0 24.5 -59.6
+
+overpass
+
+Asite
+spec_goto -3134.3 576.6 1028.8 42.7 12.9
+
+balloon
+spec_goto -3141.0 -1038.3 916.3 26.7 -48.6
+
+Along 1
+spec_goto -3467.2 -2502.1 717.2 10.7 83.5
+
+Along 2
+spec_goto -3502.0 -408.5 672.2 3.7 64.1
+
+toilet
+spec_goto -2423.9 -178.2 473.9 -4.6 -135.1
+
+Ashort
+spec_goto -2103.4 1.6 752.7 37.6 -146.6
+
+Bsite
+spec_goto -144.5 224.5 290.2 16.0 -159.6
+
+Bshort
+spec_goto -1604.5 -1099.0 231.8 20.5 55.1
+
+Blong
+spec_goto -367.4 -1577.4 153.9 8.2 97.9
+
+under
+spec_goto -1678.2 -894.0 135.9 -16.6 -135.5
+
+vertigo
+
+Asite
+spec_goto -150.6 -768.1 12244.1 54.7 125.6
+
+Ashort
+spec_goto -1151.1 -610.8 12029.7 37.1 -35.8
+
+Along
+spec_goto -117.9 -1491.2 11965.6 27.4 125.7
+
+mid
+spec_goto -2037.8 223.5 11910.0 4.0 -22.6
+
+Bsite
+spec_goto -2853.1 1009.7 11976.4 7.6 -20.6
+
+Bmain
+spec_goto -2459.3 -285.7 11967.3 39.8 45.8
+
+Ancient
+
+Asite
+spec_goto -2215.4 915.9 351.0 29.4 -16.5
+
+Amain
+spec_goto -1733.0 199.9 142.6 3.3 -132.6
+
+mid
+spec_goto -217.7 -968.1 443.2 31.6 107.7
+
+Aconnecter
+spec_goto -1400.6 -171.7 559.7 88.0 0.2
+
+CTside/B
+spec_goto 1443.6 868.5 530.1 49.5 -149.9
+
+Bsite
+spec_goto 704.5 -434.6 580.8 42.6 69.9
+
+Bmain
+spec_goto 80.9 -871.9 271.2 18.1 27.9
+
+nuke
+
+outside
+spec_goto 1155.1 -2531.7 390.3 47.1 110.9
+
+Amain
+spec_goto 208.2 -679.3 -396.1 -13.4 -121.0
+
+Asite
+spec_goto 330.0 -329.4 -14.4 27.6 -56.9
+
+ramp
+spec_goto 880.2 -199.2 8.0 45.3 120.7
+
+Bsite
+spec_goto 642.6 -94.5 -501.4 8.7 -90.6
+
+Anubis
+
+Amain1
+spec_goto 741.2 920.5 95.1 31.5 -49.9
+
+Amain2
+spec_goto 1750.9 863.6 -104.5 -7.0 132.8
+
+Asite
+spec_goto 776.7 1226.0 272.3 26.7 53.5
+
+mid
+spec_goto 252.3 721.7 936.5 82.3 179.5
+
+Bmain
+spec_goto -2155.4 117.1 432.3 29.8 -3.1
+
+Bsite
+spec_goto -1336.0 222.5 414.5 29.3 58.1
